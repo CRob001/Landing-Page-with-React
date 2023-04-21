@@ -1,4 +1,23 @@
+.cards {
+    display: flex; 
+    justify-content: space-around;
+}
 
+.jumbotron {
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+    margin-bottom: 1rem;
+    background-color: grey;
+    padding: 2rem;
+}
+
+.foot {
+    background-color: #383B3A;
+    color: white;
+    padding: 7px;
+    margin-top: 2rem;
+}
 /* 
 
     You can write your own styles here...
