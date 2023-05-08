@@ -5,9 +5,9 @@ const Jumbotron = () => {
     
     return (
         <div>
-            <div class="jumbotron">
-                <h1>Bootstrap Tutorial</h1>
-                <p>Bootstrap is the most popular HTML, CSS...</p>
+            <div className="jumbotron">
+                <h1>Gotham City</h1>
+                <p>The Joker is Joking!</p>
                 <button className="btn btn-primary">Call Batman</button>
             </div>
         </div>
